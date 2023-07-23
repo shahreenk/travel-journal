@@ -1,0 +1,13 @@
+header {
+  background-color: #f55a5a;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+
+h1 {
+  font-size: 15px;
+  font-weight: 500;
+}
